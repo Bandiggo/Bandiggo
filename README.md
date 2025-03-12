@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ali Kaya  
+## 👋 Hi, I'm Ali 
 
 I'm a software developer passionate about **VR/AR, automation, and backend development**. I enjoy building scalable and efficient solutions that solve real-world problems.  
 
