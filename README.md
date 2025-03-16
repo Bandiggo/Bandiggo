@@ -39,7 +39,7 @@ I'm a software developer passionate about **VR/AR, automation, and backend devel
 
 ### 🚀 Projects  
 - **[Lockbox AMS](https://github.com/Bandiggo)** – A SaaS-based asset management system for tracking company hardware  
-- **Procedural World Generation** – A Unity tool that automates wall stud placement based on Ontario building codes  
+- **Procedural Wall Generation** – A Unity tool that automates wall stud placement based on Ontario building codes  
 - **Trades Electrical** – An educational Unity project for learning electrical layouts in construction  
 - **[Spotify-to-YouTube-Music](https://github.com/Bandiggo/Spotify-to-Youtube-Music)** – Automates playlist transfers between streaming services  
 
